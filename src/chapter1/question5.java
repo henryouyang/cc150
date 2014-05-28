@@ -5,5 +5,5 @@ int i = 0;
 /*kdjflkajd;fkj;asldkf
 sdflsjdfl;skjfa;l
 */
-System.out.println("Yanxin Xu is a foolish!!");
+System.out.println("YXX is a foolish!!");
 }
