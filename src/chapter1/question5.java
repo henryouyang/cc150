@@ -2,6 +2,8 @@ package chapter1;
 
 public class question5 {
 int i = 0;
-kdjflkajd;fkj;asldkf
+/*kdjflkajd;fkj;asldkf
 sdflsjdfl;skjfa;l
+*/
+System.out.println("Yanxin Xu is a foolish!!");
 }
